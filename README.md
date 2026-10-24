@@ -200,7 +200,7 @@ Contributions are warmly welcomed to keep this open directory comprehensive and 
 3. 📝 **Add or update entries** following existing markdown guidelines:
    - Provide concrete pricing numbers for SaaS products (no generic terms like 'Custom').
    - Specify concrete free trial days or free tier limits (no 'N/A' or 'None').
-   - For open-source projects, ensure social star badges link directly to the repository's `stargazers` page.
+   - For open-source projects, ensure social Stars_Badges link directly to the repository's `stargazers` page.
 4. 🚀 **Submit a Pull Request** with a brief summary of your additions.
 
 ---
