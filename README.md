@@ -1,6 +1,6 @@
 # Awesome-Raw-Photo-Processing
 
-# Top RAW Photo Processing Ecosystem
+## Top RAW Photo Processing Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Scene-Referred Workflows, GPU-Accelerated Pipelines & Local AI Denoising*  
